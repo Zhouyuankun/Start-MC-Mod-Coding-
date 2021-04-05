@@ -8,7 +8,7 @@
 
 1. Go to [Minecraft Forge website](http://files.minecraftforge.net), and download any version **Mdk** you want to code with.
 
-![截屏2021-04-05 上午11.11.18.png](/Users/celeglow/Desktop/MC%20build/截屏2021-04-05%20上午11.11.18.png)
+![1.png](https://github.com/Zhouyuankun/Start-MC-Mod-Coding-/blob/main/res/1.png)
 
 2. Once complete, you can delete some files that is not essential. But at least preserve these.
 
